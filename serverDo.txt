@@ -1,0 +1,17 @@
+> PACKAGES NEEDED
+    bcryptjs
+    body-parser
+    cors
+    dotenv
+    express
+    jsonwebtoken
+    mongoose
+    nodemon(dev)
+
+> TODO'S
+('^' means folder in my own weird way lol)
+    --create
+        ^MODELS
+        ^ROUTES
+        ^CONTROLLERS
+        ^MIDDLEWARE

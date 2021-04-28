@@ -1,0 +1,36 @@
+> PACKAGES NEEDED
+    axios
+    jwt-decode
+    moment
+    react-redux
+    react-router-dom
+    redux
+    redux-thunk
+
+> FONTS
+    - Family: [Overpass](https://fonts.google.com/specimen/Overpass?preview.text_type=custom)
+    - Weights: 300, 600
+
+    - Family: [Ubuntu](https://fonts.google.com/specimen/Ubuntu?preview.text_type=custom)
+    - Weights: 400, 500, 700
+
+> ESSENTIALLY,
+    -A user should be able to register, login and create a blog
+    -Blogs from other users should be visible to the logged in user
+    -A user should be able to like a blog post
+    -A user can only edit/delete their own blog post
+
+> TODO'S
+('^' means folder in my own weird way lol)
+    --create
+        ^COMPONENTS
+            ^Auth
+            ^Form
+            .Landing
+            ^Home
+            ^Navbar
+            ^Posts^Post
+        ^ACTIONS
+        ^API
+        ^CONSTANTS
+        ^REDUCERS
